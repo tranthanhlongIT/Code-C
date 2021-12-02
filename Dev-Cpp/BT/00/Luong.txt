@@ -1,0 +1,12 @@
+Ma NV: 6457584	Ho Ten: Tran_A
+Luong Co Ban: 100	Ngay Cong: 24.000000
+Tien Luong: 109.1
+BHXH: 5.5	BHYT: 1.1	Thuc Lanh: 102.5
+Ma NV: 6457584	Ho Ten: Tran_C
+Luong Co Ban: 100	Ngay Cong: 20.000000
+Tien Luong: 90.9
+BHXH: 4.5	BHYT: 0.9	Thuc Lanh: 85.5
+Ma NV: 6457584	Ho Ten: Tran_B
+Luong Co Ban: 100	Ngay Cong: 28.000000
+Tien Luong: 127.3
+BHXH: 6.4	BHYT: 1.3	Thuc Lanh: 119.6
